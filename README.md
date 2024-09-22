@@ -1,1 +1,1 @@
-# Udacity_Generative_AI_Nanodegree
+# Udacity Generative AI Nanodegree
